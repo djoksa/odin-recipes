@@ -1,0 +1,28 @@
+h1 {
+    font-size: 100px;
+    text-align: center;
+    background-color: transparent;
+    font-weight: 800px;
+    margin-top: auto;
+    color: white;
+    text-shadow: 100px;
+}
+
+ul {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 36px;
+    
+}
+
+img {
+    width: 1080px;
+    height: auto;
+}
+
+html { 
+    background: url(img/back_ground.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
